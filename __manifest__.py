@@ -1,7 +1,7 @@
 # __manifest__.py
 
 {
-    'name': 'priv Test Module new',
+    'name': 'publice Test Module new',
     'version': '1.0',
     'category': 'Uncategorized',
     'summary': 'A module to demonstrate a simple test in Odoo',
